@@ -54,4 +54,4 @@ while (exibirMenu)
 }
 
 Console.WriteLine("\nO programa foi finalizado.\n" +
-                "Obrigada por nos escolher, volte sempre!");
+                "Obrigado por nos escolher, volte sempre!");
